@@ -122,3 +122,26 @@ footer {
     padding: 20px;
   }
 }
+.contact-section {
+  background-color: #f9f9f9;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 5px;
+  border-left: 4px solid #26527a;
+}
+
+.contact-section h3 {
+  color: #26527a;
+  margin-bottom: 10px;
+}
+
+.contact-section a {
+  color: #26527a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-section a:hover {
+  text-decoration: underline;
+  color: #1a3a52;
+}
